@@ -1,1 +1,2 @@
-Ez a kezdeti fájl ebben a repositoryban.
+Ez a kezdeti fájl a proba2_20221014 nevű repositoryban.
+Ezt egy nyilvános repositoryként hoztam létre.
